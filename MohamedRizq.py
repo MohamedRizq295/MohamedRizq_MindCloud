@@ -1,6 +1,5 @@
 name = "Mohamed Rizq"
 age = 21
 department = "Communication and Electronics"
-<<<<<<< HEAD
 Grad_Year = " 2024 "
-Fav_Team = " "
+Fav_Team = "Software"
