@@ -6,3 +6,4 @@ Fav_Team = "Software"
 Level = 3
 Last_name = "Amin"
 Sub_Num = 7
+DOB = "29/5"
